@@ -6,6 +6,7 @@ ait2-exporter.aptos.hellman.team:9116/metrics
 ### metrics
 * aptos_validator_liveness
 * aptos_validator_participation
+* aptos_validator_votes
 
 ### requires
 Python3 (Python3.8 is recommended)
